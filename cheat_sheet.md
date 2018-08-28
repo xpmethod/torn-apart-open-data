@@ -1,8 +1,3 @@
----
-<<<<<<< HEAD
-title: ICE Awards Data Cheat Sheet
-permalink: cheat-sheet.html
----
 #ICE Awards Data Cheat Sheet
 
 As the *Torn apart/Separados* team grappled with the complexities of the ICE awards data set, we developed an internal "cheat sheet" of notes on the columns of the data set. We share this sheet to assist other teams interested in working with ICE award data.
